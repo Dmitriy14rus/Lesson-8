@@ -1,0 +1,23 @@
+.block1 {
+    background: rgb(87, 50, 21);
+}
+.text1 {
+    color: aliceblue;
+}
+.text2 {
+    color:rgb(184, 133, 231);
+}
+.block2 {
+    background: red;
+    width: 100px;
+    height: 100px;
+}
+.block3 {
+    color:black;
+    background: rgb(190, 95, 197);
+    width: 300px;
+}
+.text3  {
+    color:aliceblue;
+    background: rgb(96, 11, 94);
+}
